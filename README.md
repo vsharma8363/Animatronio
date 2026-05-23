@@ -122,16 +122,6 @@ This is the portability layer that the current agent ecosystem is missing.
 
 ---
 
-## Relationship to Crucible
-
-[Crucible](https://github.com/vsharma8363/OpenClaw-Crucible) handles agent self-improvement — making the agent smarter about its own behavior over time.
-
-Animatronio handles user knowledge portability — making sure any agent always knows who it's talking to.
-
-They're complementary. Crucible improves the agent. Animatronio carries the user.
-
----
-
 ## Status
 
 Early design phase. This README is the spec. Implementation in progress.
